@@ -1,0 +1,28 @@
+name: Carrie Keenan
+favicon: null
+layout_spectrum: 0.6518899188376963
+typography_spectrum: 0.0951083111576736
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.09084991132840514
+  lightness: 0.8649149036500603
+  saturation: 0.59775117225945
+  rhythmicContrast: 0.8867602883838117
+purpose: []
